@@ -1,12 +1,12 @@
 ### Olá Me chamo Roberto Carlos 😊
 
-- 🌱 Estudando .Net Core
+- 🌱 Estudando .Net Core e JavaScript
 
-### Sobre Mim
-- 💬 Fui voluntário/instrutor, do curso de robótica para alunos do ensino médio com duração de 1 ano.
+### Sobre Mim 💬 
+- Fui voluntário/instrutor, do curso de robótica para alunos do ensino médio com duração de 1 ano.
 - Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina.
 - Participante de muitos outros cursos e palestras Fora e dentro da UNIGRANDE com foco em TI e segurança da informação como RoadSec por exemplo.
-- E nos dias atuais, aprimoro meus estudos com .NET Core com Angular desenvolvendo sites e sistemas cada vez mais complexos.
+- E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, JavaScript e Angular para desenvolvendo sites e sistemas cada vez mais complexos.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
