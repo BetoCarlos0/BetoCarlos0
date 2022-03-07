@@ -1,11 +1,12 @@
 ### Olá Me chamo Roberto Carlos 😊
 
-- 🌱 Estudando .Net Core e JavaScript
+- 🌱 Estudando .Net Core, SQL Server e Angular/React
 
 ### Sobre Mim 💬 
-- Fui voluntário/instrutor, do curso de robótica para alunos do ensino médio com duração de 1 ano.
-- Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina.
+- Voluntário/instrutor, do curso de robótica para alunos do ensino médio com duração de 1 ano.
+- Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina por 1 ano.
 - Participante de muitos outros cursos e palestras Fora e dentro da UNIGRANDE com foco em TI e segurança da informação como RoadSec por exemplo.
+- Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
 - E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, SQL Server, Angular e boas práticas de programação para desenvolvendo sites e sistemas cada vez mais complexos.
 
 <div align="center">
