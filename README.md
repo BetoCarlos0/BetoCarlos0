@@ -1,6 +1,6 @@
 ### Olá Me chamo Roberto Carlos 😊
 
-- 🌱 Estudando .Net Core, SQL Server e Angular/React
+- 🌱 Estudando .Net Core, SQL Server e Angular
 
 ### Sobre Mim 💬 
 - Voluntário/instrutor, do curso de robótica para alunos do ensino médio com duração de 1 ano.
