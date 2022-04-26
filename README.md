@@ -7,7 +7,7 @@
 - Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina por 1 ano.
 - Participante de muitos outros cursos e palestras Fora e dentro da UNIGRANDE com foco em TI e segurança da informação como RoadSec por exemplo.
 - Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
-- E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, SQL Server, Angular e boas práticas de programação para desenvolvendo sites e sistemas cada vez mais complexos.
+- E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, SQL Server, Angular e boas práticas de programação como design pattern, unit test e arquiteturas de projetos.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
