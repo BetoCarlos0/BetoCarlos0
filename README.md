@@ -9,6 +9,9 @@
 - Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
 - E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, SQL Server, Angular e boas práticas de programação como design pattern, unit test e arquiteturas de projetos.
 
+### Projetos 🛠
+- <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - Rest Api feito em .Net Core com EF, respository pattern, reaproveitamento de código, Xunit + Moq
+
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betocarlos0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
