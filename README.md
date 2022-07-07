@@ -9,14 +9,17 @@
 - Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
 - E nos dias atuais, aprimoro meus conhecimentos estudando .NET Core, SQL Server, Angular e boas práticas de programação como design pattern, unit test e arquiteturas de projetos.
 
+
 ### Projetos 🛠
-- <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - Rest Api feito em .Net Core com EF, respository pattern, reaproveitamento de código, Xunit + Moq
+- <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - ApiRest feito em .Net Core com EF, respository pattern, reaproveitamento de código, Xunit + Moq
+- <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - ApiRest com estrutura DDD, .Net CORE 6, design pattern repository, EF, Mapping, reaproveitamento de código, testes com Xunit + Moq.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betocarlos0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betocarlos0&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+  
   
 <div align="center" style="display: inline_block"><br>
   <img height="50px" weigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -32,6 +35,8 @@
   <img height="50px" weigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img height="50px" weigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+
+
 <div><br>
   <a href = "mailto:betocarlos00@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberto-carlos-41a037187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
