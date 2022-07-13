@@ -12,7 +12,7 @@
 
 ### Projetos 🛠
 - <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - ApiRest feito em .Net Core com EF, respository pattern, reaproveitamento de código, Xunit + Moq
-- <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - ApiRest com estrutura DDD, .Net CORE 6, design pattern repository, EF, Mapping, reaproveitamento de código, testes com Xunit + Moq.
+- <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - ApiRest, DDD, .Net CORE 6, repository pattern, EF, Mapping, Mapper, testes com Xunit + Moq.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
