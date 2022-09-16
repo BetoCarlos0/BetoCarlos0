@@ -1,18 +1,18 @@
 ### Olá Me chamo Roberto Carlos 😊
 
-- 🌱 Estudando .Net Core, SQL Server e Angular
+- 🌱 Estudando C#, .Net, SQL Server e Angular
 
 ### Sobre Mim 💬 
 - Voluntário/instrutor, do curso de linguagem de programação C/C++ para alunos do ensino médio com duração de 1 ano.
 - Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina por 1 ano.
 - Participante de muitos outros cursos e palestras Fora e dentro da UNIGRANDE com foco em TI e segurança da informação como RoadSec por exemplo.
 - Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
-- E nos dias atuais, aprimoro meus conhecimentos estudando .NET, C#, SQL Server, Angular e boas práticas de programação como design pattern, unit test e arquiteturas de projetos.
+- E nos dias atuais, aprimoro meus conhecimentos estudando C#, .NET, SQL Server, Angular e boas práticas de programação como Design Patterns, TDD, Clean Code e arquiteturas de projetos.
 
 
 ### Projetos 🛠
-- <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - ApiRest feito em .Net Core com EF, respository pattern, reaproveitamento de código, Xunit + Moq
-- <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - ApiRest, DDD, .Net CORE 6, repository pattern, EF, Mapping, Mapper, testes com Xunit + Moq.
+- <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - Web Api feito em .Net 5 com EF, respository pattern, reaproveitamento de código, Xunit + Moq
+- <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - Web Api, DDD, .Net 6, repository pattern, EF, Mapping, Mapper, testes com Xunit + Moq.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
