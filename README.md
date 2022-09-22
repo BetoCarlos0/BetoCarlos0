@@ -13,6 +13,7 @@
 ### Projetos 🛠
 - <a href="https://github.com/BetoCarlos0/Dotiflix">DotFlix</a> - Web Api feito em .Net 5 com EF, respository pattern, reaproveitamento de código, Xunit + Moq
 - <a href="https://github.com/BetoCarlos0/DotVida">DotVida</a> - Web Api, DDD, .Net 6, repository pattern, EF, Mapping, Mapper, testes com Xunit + Moq.
+- <a href="https://github.com/BetoCarlos0/DotSupply">DotSupply</a> - Web MVC, .Net 6, repository pattern, EF, Gerador de PDF, Gráficos.
 
 <div align="center">
   <a href="https://github.com/BetoCarlos0">
