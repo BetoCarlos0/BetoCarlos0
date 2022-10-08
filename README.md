@@ -7,7 +7,7 @@
 - Participante da iniciação científica da UNIGRANDE com tema SMART HOME com aprendizado de máquina por 1 ano.
 - Participante de muitos outros cursos e palestras Fora e dentro da UNIGRANDE com foco em TI e segurança da informação como RoadSec por exemplo.
 - Participante de Botcamps e Acelerações pela DIO (Digital Inovation One).
-- E nos dias atuais, aprimoro meus conhecimentos estudando C#, .NET, SQL Server, Angular e boas práticas de programação como Design Patterns, TDD, Clean Code e arquiteturas de projetos.
+- E nos dias atuais, aprimoro meus conhecimentos estudando C#, .NET, SQL Server, Angular e boas práticas de programação como Design Patterns, DDD, TDD, Cloud, Clean Code e arquiteturas de projetos.
 
 
 ### Projetos 🛠
